@@ -1,5 +1,4 @@
 __pycache__/
 *.py[codz]
 .venv/
-lib/
 .DS_Store
